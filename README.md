@@ -15,6 +15,8 @@ introduced form version 9 to version 16
 [Java 9] Create example for Java Modularity
 </a>
 - the solution for this issue can be found on branch 
-<a href="">Issue#1-JavaModularity</a>
+<a href="https://github.com/filipkule/Java9To16Features/blob/Issue%231-JavaModularity/README.md">
+Issue#1-JavaModularity
+</a>
 </li>
 </ul>
