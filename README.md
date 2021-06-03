@@ -15,7 +15,7 @@ introduced form version 9 to version 16
 [Java 9] Create example for Java Modularity
 </a>
 - the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/blob/Issue%231-JavaModularity/README.md">
+<a href="https://github.com/filipkule/Java9To16Features/tree/Issue%231-JavaModularity">
 issue#1-JavaModularity
 </a>
 </li>
@@ -24,7 +24,7 @@ issue#1-JavaModularity
 [Java 9] Try with resource Statement
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%232-tryWithResourceStatement">
 issue#2-tryWithResourceStatement
 </a>
 </li>
