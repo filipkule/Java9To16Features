@@ -33,7 +33,7 @@ issue#2-tryWithResourceStatement
 [Java 9] @SafeVarargs annotation
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%233-safeVarargsAnnotation">
 issue#3-safeVarargsAnnotation
 </a>
 </li>
