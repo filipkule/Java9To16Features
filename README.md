@@ -37,4 +37,13 @@ issue#2-tryWithResourceStatement
 issue#3-safeVarargsAnnotation
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/4">
+[Java 9] Inner Class Diamond Operator
+</a>
+- the solution for this issue can be found on branch 
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%234-innerClassDiamondOperator">
+issue#4-innerClassDiamondOperator
+</a>
+</li>
 </ul>
