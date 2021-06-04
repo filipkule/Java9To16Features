@@ -42,7 +42,7 @@ issue#3-safeVarargsAnnotation
 [Java 9] Inner Class Diamond Operator
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%234-innerClassDiamondOperator">
 issue#4-innerClassDiamondOperator
 </a>
 </li>
