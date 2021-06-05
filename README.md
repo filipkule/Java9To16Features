@@ -66,4 +66,13 @@ here
 </a>
 .
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/7">
+[Java 9] Private interface methods
+</a>
+- the solution for this issue can be found on branch 
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%237-privateInterfaceMethods">
+issue#7-privateInterfaceMethods
+</a>
+</li>
 </ul>
