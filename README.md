@@ -84,4 +84,13 @@ issue#7-privateInterfaceMethods
 issue#8-optionalApiAdditions
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/9">
+[Java 9] Immutable Collections
+</a>
+- the solution for this issue can be found on branch 
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%239-immutableCollections">
+issue#9-immutableCollections
+</a>
+</li>
 </ul>
