@@ -75,4 +75,13 @@ here
 issue#7-privateInterfaceMethods
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/8">
+[Java 9] Optional API additions
+</a>
+- the solution for this issue can be found on branch 
+<a href="">
+issue#8-optionalApiAdditions
+</a>
+</li>
 </ul>
