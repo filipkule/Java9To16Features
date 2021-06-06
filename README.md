@@ -80,7 +80,7 @@ issue#7-privateInterfaceMethods
 [Java 9] Optional API additions
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%238-optionalApiAdditions">
 issue#8-optionalApiAdditions
 </a>
 </li>
