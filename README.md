@@ -89,7 +89,7 @@ issue#8-optionalApiAdditions
 [Java 9] Immutable Collections
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%239-immutableCollections">
 issue#9-immutableCollections
 </a>
 </li>
