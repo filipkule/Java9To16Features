@@ -93,4 +93,13 @@ issue#8-optionalApiAdditions
 issue#9-immutableCollections
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/10">
+[Java 9] Publish-Subscribe framework
+</a>
+- the solution for this issue can be found on branch 
+<a href="">
+issue#10flowApi
+</a>
+</li>
 </ul>
