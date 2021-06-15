@@ -98,7 +98,7 @@ issue#9-immutableCollections
 [Java 9] Publish-Subscribe framework
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2310flowApi">
 issue#10flowApi
 </a>
 </li>
