@@ -111,4 +111,11 @@ issue#10flowApi
 issue#11-variableHandles
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/12">
+[Java 9] JShell Command Line Tool
+</a>
+- make sure you go through the description of this task to get better understanding of JShell
+</a>
+</li>
 </ul>
