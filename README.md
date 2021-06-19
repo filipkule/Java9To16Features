@@ -107,7 +107,7 @@ issue#10flowApi
 [Java 9] Variable Handles
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2311-variableHandles">
 issue#11-variableHandles
 </a>
 </li>
