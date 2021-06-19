@@ -102,4 +102,13 @@ issue#9-immutableCollections
 issue#10flowApi
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/11">
+[Java 9] Variable Handles
+</a>
+- the solution for this issue can be found on branch 
+<a href="">
+issue#11-variableHandles
+</a>
+</li>
 </ul>
