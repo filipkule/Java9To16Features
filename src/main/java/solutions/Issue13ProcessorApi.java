@@ -24,11 +24,16 @@ public class Issue13ProcessorApi {
         Process notepadProcess = null;
         try {
             notepadProcess = pb.start();
-            ProcessHandle.Info notepadInfo = notepadProcess.info();
+            ProcessHandle notepadProcessHandle = notepadProcess.toHandle();
+            ProcessHandle.Info notepadInfo = notepadProcess.info();//notepadProcessHandle.info(); also possible
             System.out.printf("Process ID : %s%n", notepadProcess.pid());
             System.out.printf("Command name : %s%n", notepadInfo.command().orElse(np));
             System.out.printf("Command line : %s%n", notepadInfo.commandLine().orElse(np));
-        } catch (IOException e) {
+            Thread.sleep(2000);
+            System.out.println("Wait 2 seconds than kill the process");
+            notepadProcess.destroy();//notepadProcessHandle.destroy() also possible
+            System.out.println("Is process alive: " + notepadProcessHandle.isAlive());//notepadProcess.isAlive() also possible
+        } catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
 
