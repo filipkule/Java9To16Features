@@ -131,7 +131,7 @@ issue#13-processApi
 [Java 9] Stream interface
 </a>
 - the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%23issue#15-StreamInterface">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2315-StreamInterface">
 issue#15-StreamInterface
 </a>
 </li>
