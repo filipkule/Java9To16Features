@@ -126,4 +126,13 @@ issue#11-variableHandles
 issue#13-processApi
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/15">
+[Java 9] Stream interface
+</a>
+- the solution for this issue can be found on branch 
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2315-StreamInterface">
+issue#15-StreamInterface
+</a>
+</li>
 </ul>
