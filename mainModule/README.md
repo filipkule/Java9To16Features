@@ -144,4 +144,13 @@ issue#15-StreamInterface
 issue#26-localVariableTypeInterface
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/27">
+[Java 10] Unmodifiable Collections and Immutable Collections
+</a>
+- the solution for this issue can be found on branch 
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2326-localVariableTypeInterface">
+issue#27-unmodifiable-and-immutable-collections
+</a>
+</li>
 </ul>
