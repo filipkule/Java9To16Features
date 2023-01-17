@@ -11,7 +11,7 @@ public class Issue2TryWithResourceStatement {
     public static void main(String[] args) {
 
         //try with resource statement
-        try (FileOutputStream fileOutputStream = new FileOutputStream("src/main/resources/output.txt")){
+        try (FileOutputStream fileOutputStream = new FileOutputStream("mainModule/src/main/resources/output.txt")){
             String message = "Hello stranger!";
             byte byteArray[] = message.getBytes(); //converting string into byte array
             fileOutputStream.write(byteArray);
@@ -22,7 +22,7 @@ public class Issue2TryWithResourceStatement {
 
         //try without resource statement inside of fetchFromResources method
             System.out.print("Read from file output.txt \n");
-            System.out.print(fetchFromResources("src/main/resources/output.txt"));
+            System.out.print(fetchFromResources("mainModule/src/main/resources/output.txt"));
 
 
     }

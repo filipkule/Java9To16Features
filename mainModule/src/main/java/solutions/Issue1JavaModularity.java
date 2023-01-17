@@ -1,5 +1,3 @@
-package solutions;
-
 import com.service.RequiredClass;
 
 public class Issue1JavaModularity {
