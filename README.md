@@ -154,11 +154,11 @@ issue#27-unmodifiable-and-immutable-collections
 </a>
 </li>
 <li>
-<a href="https://github.com/filipkule/Java9To16Features/issues/27">
+<a href="https://github.com/filipkule/Java9To16Features/issues/38">
 [Java 11] Predicate::not method
 </a>
 - the solution for this issue can be found on branch 
-<a href="">
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2338-predicate-not-method">
 issue#38-predicate-not-method
 </a>
 </li>
