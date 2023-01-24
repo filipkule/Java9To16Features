@@ -4,8 +4,10 @@
 
 <p align="center">
 <b>
-This repository is contained of simple implementations of the Java features that were 
-introduced form version 9 to version 16 
+This repository contains simple implementations of the Java features that were 
+introduced form version 9 to version 16. The purpose of the examples is to be as simple
+as possible and any features that were introduced after Java 8 and are not codding related features
+are not covered here.
 </b>
 </p>
 
@@ -14,8 +16,8 @@ introduced form version 9 to version 16
 <a href="https://github.com/filipkule/Java9To16Features/issues/1">
 [Java 9] Create example for Java Modularity
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/Issue%231-JavaModularity">
+- the solution for this issue can be found here 
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/JavaModularity.java">
 issue#1-JavaModularity
 </a>
 </li>
@@ -23,8 +25,8 @@ issue#1-JavaModularity
 <a href="https://github.com/filipkule/Java9To16Features/issues/2">
 [Java 9] Try with resource Statement
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%232-tryWithResourceStatement">
+- the solution for this issue can be found here 
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/TryWithResourceStatement.java">
 issue#2-tryWithResourceStatement
 </a>
 </li>
@@ -32,8 +34,8 @@ issue#2-tryWithResourceStatement
 <a href="https://github.com/filipkule/Java9To16Features/issues/3">
 [Java 9] @SafeVarargs annotation
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%233-safeVarargsAnnotation">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/SafeVarargsAnnotation.java">
 issue#3-safeVarargsAnnotation
 </a>
 </li>
@@ -41,8 +43,8 @@ issue#3-safeVarargsAnnotation
 <a href="https://github.com/filipkule/Java9To16Features/issues/4">
 [Java 9] Inner Class Diamond Operator
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%234-innerClassDiamondOperator">
+- the solution for this issue can be found here 
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/InnerClassDiamondOperator.java">
 issue#4-innerClassDiamondOperator
 </a>
 </li>
@@ -50,8 +52,8 @@ issue#4-innerClassDiamondOperator
 <a href="https://github.com/filipkule/Java9To16Features/issues/5">
 [Java 9] Anonymous inner Classes
 </a>
-- the solution for this issue can be also found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%234-innerClassDiamondOperator">
+- the solution for this issue can be found here(same as previous) 
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/InnerClassDiamondOperator.java">
 issue#4-innerClassDiamondOperator
 </a>
 </li>
@@ -70,8 +72,8 @@ here
 <a href="https://github.com/filipkule/Java9To16Features/issues/7">
 [Java 9] Private interface methods
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%237-privateInterfaceMethods">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/PrivateInterfaceMethods.java">
 issue#7-privateInterfaceMethods
 </a>
 </li>
@@ -79,8 +81,8 @@ issue#7-privateInterfaceMethods
 <a href="https://github.com/filipkule/Java9To16Features/issues/8">
 [Java 9] Optional API additions
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%238-optionalApiAdditions">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/OptionalApiAdditions.java">
 issue#8-optionalApiAdditions
 </a>
 </li>
@@ -88,8 +90,8 @@ issue#8-optionalApiAdditions
 <a href="https://github.com/filipkule/Java9To16Features/issues/9">
 [Java 9] Immutable Collections
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%239-immutableCollections">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/ImmutableCollections.java">
 issue#9-immutableCollections
 </a>
 </li>
@@ -97,8 +99,8 @@ issue#9-immutableCollections
 <a href="https://github.com/filipkule/Java9To16Features/issues/10">
 [Java 9] Publish-Subscribe framework
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2310flowApi">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/PubSubFramework.java">
 issue#10flowApi
 </a>
 </li>
@@ -106,8 +108,8 @@ issue#10flowApi
 <a href="https://github.com/filipkule/Java9To16Features/issues/11">
 [Java 9] Variable Handles
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2311-variableHandles">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/VariableHandles.java">
 issue#11-variableHandles
 </a>
 </li>
@@ -121,8 +123,8 @@ issue#11-variableHandles
 <a href="https://github.com/filipkule/Java9To16Features/issues/13">
 [Java 9] Process API
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2313-processApi">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/ProcessorApi.java">
 issue#13-processApi
 </a>
 </li>
@@ -130,8 +132,8 @@ issue#13-processApi
 <a href="https://github.com/filipkule/Java9To16Features/issues/15">
 [Java 9] Stream interface
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2315-StreamInterface">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/StreamInterface.java">
 issue#15-StreamInterface
 </a>
 </li>
@@ -139,8 +141,8 @@ issue#15-StreamInterface
 <a href="https://github.com/filipkule/Java9To16Features/issues/26">
 [Java 10] Local Variable Type Inference
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2326-localVariableTypeInterface">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/LocalVarTypeInterface.java">
 issue#26-localVariableTypeInterface
 </a>
 </li>
@@ -148,8 +150,8 @@ issue#26-localVariableTypeInterface
 <a href="https://github.com/filipkule/Java9To16Features/issues/27">
 [Java 10] Unmodifiable Collections and Immutable Collections
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2327-unmodifiable-and-immutable-collections">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/UnmodifiableImmutableCollections.java">
 issue#27-unmodifiable-and-immutable-collections
 </a>
 </li>
@@ -157,8 +159,8 @@ issue#27-unmodifiable-and-immutable-collections
 <a href="https://github.com/filipkule/Java9To16Features/issues/38">
 [Java 11] Predicate::not method
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2338-predicate-not-method">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/PredicateNotMethod.java">
 issue#38-predicate-not-method
 </a>
 </li>
@@ -166,8 +168,8 @@ issue#38-predicate-not-method
 <a href="https://github.com/filipkule/Java9To16Features/issues/14">
 [Java 9/10/11] HTTP Client
 </a>
-- the solution for this issue can be found on branch 
-<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2314-http-client">
+- the solution for this issue can be found here
+<a href="https://github.com/filipkule/Java9To16Features/blob/main/mainModule/src/main/java/solutions/Java9HttpClient.java">
 issue#14-http-client
 </a>
 </li>
