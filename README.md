@@ -174,4 +174,13 @@ here
 here
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/31">
+[Java 12/13] Switch expression
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/SwitchExpression.java">
+here
+</a>
+</li>
 </ul>
