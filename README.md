@@ -17,36 +17,36 @@ With Java 17 being the LTS until September 2023 this repo is concluded, and anot
 <a href="https://github.com/filipkule/Java9To17Features/issues/1">
 [Java 9] Create example for Java Modularity
 </a>
-- the solution for this issue can be found here 
+- the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/JavaModularity.java">
-issue#1-JavaModularity
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/2">
 [Java 9] Try with resource Statement
 </a>
-- the solution for this issue can be found here 
+- the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/TryWithResourceStatement.java">
-issue#2-tryWithResourceStatement
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/3">
 [Java 9] @SafeVarargs annotation
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/SafeVarargsAnnotation.java">
-issue#3-safeVarargsAnnotation
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/4">
 [Java 9] Inner Class Diamond Operator
 </a>
-- the solution for this issue can be found here 
+- the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/InnerClassDiamondOperator.java">
-issue#4-innerClassDiamondOperator
+here
 </a>
 </li>
 <li>
@@ -55,7 +55,7 @@ issue#4-innerClassDiamondOperator
 </a>
 - the solution for this issue can be found here(same as previous) 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/InnerClassDiamondOperator.java">
-issue#4-innerClassDiamondOperator
+here
 </a>
 </li>
 <li>
@@ -73,45 +73,45 @@ here
 <a href="https://github.com/filipkule/Java9To17Features/issues/7">
 [Java 9] Private interface methods
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/PrivateInterfaceMethods.java">
-issue#7-privateInterfaceMethods
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/8">
 [Java 9] Optional API additions
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/OptionalApiAdditions.java">
-issue#8-optionalApiAdditions
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/9">
 [Java 9] Immutable Collections
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/ImmutableCollections.java">
-issue#9-immutableCollections
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/10">
 [Java 9] Publish-Subscribe framework
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/PubSubFramework.java">
-issue#10flowApi
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/11">
 [Java 9] Variable Handles
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/VariableHandles.java">
-issue#11-variableHandles
+here
 </a>
 </li>
 <li>
@@ -124,54 +124,54 @@ issue#11-variableHandles
 <a href="https://github.com/filipkule/Java9To17Features/issues/13">
 [Java 9] Process API
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/ProcessorApi.java">
-issue#13-processApi
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/15">
 [Java 9] Stream interface
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/StreamInterface.java">
-issue#15-StreamInterface
-</a>
-</li>
-<li>
-<a href="https://github.com/filipkule/Java9To17Features/issues/26">
-[Java 10] Local Variable Type Inference
-</a>
-- the solution for this issue can be found here
-<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/LocalVarTypeInterface.java">
-issue#26-localVariableTypeInterface
-</a>
-</li>
-<li>
-<a href="https://github.com/filipkule/Java9To17Features/issues/27">
-[Java 10] Unmodifiable Collections and Immutable Collections
-</a>
-- the solution for this issue can be found here
-<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/UnmodifiableImmutableCollections.java">
-issue#27-unmodifiable-and-immutable-collections
-</a>
-</li>
-<li>
-<a href="https://github.com/filipkule/Java9To17Features/issues/38">
-[Java 11] Predicate::not method
-</a>
-- the solution for this issue can be found here
-<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/PredicateNotMethod.java">
-issue#38-predicate-not-method
+here
 </a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/14">
 [Java 9/10/11] HTTP Client
 </a>
-- the solution for this issue can be found here
+- the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/Java9HttpClient.java">
-issue#14-http-client
+here
+</a>
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/26">
+[Java 10] Local Variable Type Inference
+</a>
+- the solution for this issue can be found
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/LocalVarTypeInterface.java">
+here
+</a>
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/27">
+[Java 10] Unmodifiable Collections and Immutable Collections
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/UnmodifiableImmutableCollections.java">
+here
+</a>
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/38">
+[Java 11] Predicate::not method
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/PredicateNotMethod.java">
+here
 </a>
 </li>
 </ul>
