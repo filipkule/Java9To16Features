@@ -5,45 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd0d617-b329-4218-9265-555e8e7720c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue10PubSubFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/PubSubFramework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue11VariableHandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/VariableHandles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue13ProcessorApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/ProcessorApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue15StreamInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/StreamInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue16LocalVarTypeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/LocalVarTypeInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue1JavaModularity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/JavaModularity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue27UnmodifiableImmutableCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/UnmodifiableImmutableCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue2TryWithResourceStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/TryWithResourceStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue38PredicateNotMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/PredicateNotMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue3SafeVarargsAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/SafeVarargsAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue4InnerClassDiamondOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/InnerClassDiamondOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue7InterfaceWithPrivateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/InterfaceWithPrivateMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue7PrivateInterfaceMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/PrivateInterfaceMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue8OptionalApiAdditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/OptionalApiAdditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue9ImmutableCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/ImmutableCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/test/java/solutions/Issue1JavaModularityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/test/java/solutions/JavaModularityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/test/java/solutions/Issue27UnmodifiableImmutableCollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/test/java/solutions/UnmodifiableImmutableCollectionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/AbstractAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/AbstractAddition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue10PubSubFramework$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue10PubSubFramework$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue10PubSubFramework$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue10PubSubFramework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue11VariableHandles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue13ProcessorApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue15StreamInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue16LocalVarTypeInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue2TryWithResourceStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue3SafeVarargsAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue4InnerClassDiamondOperator$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue4InnerClassDiamondOperator$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue4InnerClassDiamondOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue7InterfaceWithPrivateMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue7PrivateInterfaceMethods$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue7PrivateInterfaceMethods$ImplementationClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue7PrivateInterfaceMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue8OptionalApiAdditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Issue9ImmutableCollections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java9To16Features.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java9To17Features.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/issue1.requiredModule/src/com/service/RequiredClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/issue1.requiredModule/src/com/service/RequiredClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainModule/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/JavaModularity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/JavaModularity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/RequiredClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/AbstractAddition.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,58 +56,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Filip\Programming\Repos\Java9To16Features" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java9HttpClient">
+  <component name="RunManager" selected="Application.ProcessorApi">
+    <configuration name="ImmutableCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImmutableCollections" />
+      <module name="Java9To17Features" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Java9HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java9HttpClient" />
-      <module name="Java9To16Features" />
+      <module name="Java9To17Features" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamInterface" />
-      <module name="Java9To16Features" />
+    <configuration name="JavaModularity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaModularity" />
+      <module name="Java9To17Features" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourceStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solutions.TryWithResourceStatement" />
-      <module name="Java9To16Features" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnmodifiableImmutableCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnmodifiableImmutableCollections" />
-      <module name="Java9To16Features" />
+    <configuration name="ProcessorApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProcessorApi" />
+      <module name="Java9To17Features" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="VariableHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solutions.VariableHandles" />
-      <module name="Java9To16Features" />
+      <module name="Java9To17Features" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="solutions.*" />
@@ -146,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java9To17Features" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java9To17Features" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProcessorApi" />
+        <item itemvalue="Application.JavaModularity" />
         <item itemvalue="Application.Java9HttpClient" />
+        <item itemvalue="Application.ImmutableCollections" />
         <item itemvalue="Application.VariableHandles" />
-        <item itemvalue="Application.UnmodifiableImmutableCollections" />
-        <item itemvalue="Application.TryWithResourceStatement" />
-        <item itemvalue="Application.StreamInterface" />
       </list>
     </recent_temporary>
   </component>

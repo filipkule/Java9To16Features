@@ -1,3 +1,3 @@
-module Java9To16Features {
+module Java9To17Features {
     requires issue1.requiredModule;
 }
