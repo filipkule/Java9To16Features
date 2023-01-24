@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Issue27UnmodifiableImmutableCollections {
+public class UnmodifiableImmutableCollections {
     public static void main(String[] args) {
         List<Integer> intList  = new ArrayList<>();
         intList.add(5);

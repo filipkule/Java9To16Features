@@ -1,10 +1,8 @@
-package solutions;
-
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class Issue9ImmutableCollections {
+public class ImmutableCollections {
     public static void main(String[] args) {
         immutableList();
         immutableSet();

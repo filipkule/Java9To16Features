@@ -1,6 +1,6 @@
 package solutions;
 
-public class Issue4InnerClassDiamondOperator {
+public class InnerClassDiamondOperator {
     public static void main(String[] args) {
         AbstractAddition<Integer> additionIntegers = new AbstractAddition<Integer>() {
             @Override

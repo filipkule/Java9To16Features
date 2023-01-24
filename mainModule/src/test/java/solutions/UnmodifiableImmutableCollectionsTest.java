@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Issue27UnmodifiableImmutableCollectionsTest {
+public class UnmodifiableImmutableCollectionsTest {
 
     @Test
     public void addToUnmodifiableListTest() {
@@ -20,10 +20,10 @@ public class Issue27UnmodifiableImmutableCollectionsTest {
 
 
         Assertions.assertThrows(UnsupportedOperationException.class, () ->
-                Issue27UnmodifiableImmutableCollections.addToUnmodifiableList(1, List.of(2,3,4)));
+                UnmodifiableImmutableCollections.addToUnmodifiableList(1, List.of(2,3,4)));
         Assertions.assertThrows(UnsupportedOperationException.class, () ->
-                Issue27UnmodifiableImmutableCollections.addToUnmodifiableList(6, unmodifiableList1));
+                UnmodifiableImmutableCollections.addToUnmodifiableList(6, unmodifiableList1));
         Assertions.assertThrows(UnsupportedOperationException.class, () ->
-                Issue27UnmodifiableImmutableCollections.addToUnmodifiableList(6, unmodifiableList2));
+                UnmodifiableImmutableCollections.addToUnmodifiableList(6, unmodifiableList2));
     }
 }
