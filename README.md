@@ -183,4 +183,15 @@ here
 here
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/32">
+[Java 13/14] Text Blocks
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/TextBlocks.java">
+here
+</a>
+. For more information on code blocks read <a href="https://docs.oracle.com/en/java/javase/14/text-blocks/index.html">
+this guide</a>.
+</li>
 </ul>
