@@ -162,4 +162,13 @@ issue#27-unmodifiable-and-immutable-collections
 issue#38-predicate-not-method
 </a>
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To16Features/issues/14">
+[Java 9/10/11] HTTP Client
+</a>
+- the solution for this issue can be found on branch 
+<a href="https://github.com/filipkule/Java9To16Features/tree/issue%2314-http-client">
+issue#14-http-client
+</a>
+</li>
 </ul>
