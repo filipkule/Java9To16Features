@@ -1,6 +1,4 @@
-package solutions;
-
-interface Issue7InterfaceWithPrivateMethod {
+interface InterfaceWithPrivateMethod {
         default void print(){
             System.out.println(greetMethod());
         }

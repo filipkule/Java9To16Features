@@ -1,8 +1,6 @@
-package solutions;
-
 import java.io.IOException;
 
-public class Issue13ProcessorApi {
+public class ProcessorApi {
     public static void main(String[] args) {
         ProcessHandle currentProcess = ProcessHandle.current();
         ProcessHandle.Info info = currentProcess.info();

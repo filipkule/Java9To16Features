@@ -1,9 +1,7 @@
-package solutions;
-
 import java.util.List;
 import java.util.function.BiFunction;
 
-public class Issue16LocalVarTypeInterface {
+public class LocalVarTypeInterface {
     public static void main(String[] args) {
         String name = "Stranger";
         var nameVar = "Stranger";

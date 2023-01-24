@@ -1,10 +1,8 @@
-package solutions;
-
 import java.lang.invoke.MethodHandles;
 import java.lang.invoke.VarHandle;
 import java.util.Arrays;
 
-public class Issue11VariableHandles {
+public class VariableHandles {
     public static void main(String[] args) {
         try {
             Person instance = new Person();

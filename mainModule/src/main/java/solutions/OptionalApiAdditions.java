@@ -1,10 +1,8 @@
-package solutions;
-
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-public class Issue8OptionalApiAdditions {
+public class OptionalApiAdditions {
     public static void main(String[] args) {
         ifPresentOrElse();
         or();

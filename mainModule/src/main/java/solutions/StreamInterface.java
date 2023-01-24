@@ -1,12 +1,9 @@
-package solutions;
-
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class Issue15StreamInterface {
+public class StreamInterface {
     public static void main(String[] args) {
         List<String> names = List.of("User", "Stranger", "", "User2", "", "User3");
 

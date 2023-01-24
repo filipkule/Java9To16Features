@@ -1,6 +1,6 @@
 import java.util.function.Predicate;
 
-public class Issue38PredicateNotMethod {
+public class PredicateNotMethod {
     public static void main(String[] args) {
         Predicate isStringPredicate = (o) -> o instanceof String;
         Predicate notStringPredicate = Predicate.not(isStringPredicate);

@@ -1,11 +1,9 @@
-package solutions;
-
 import java.util.List;
 import java.util.concurrent.Flow;
 import java.util.concurrent.Flow.Publisher;
 import java.util.concurrent.Flow.Subscriber;
 
-public class Issue10PubSubFramework {
+public class PubSubFramework {
     public static void main(String[] args) {
         List<Person> people = List.of(new Person(1, "Person1"), new Person(2, "Stranger"),
                 new Person(3, "Person3"), new Person(4, "Person4"));

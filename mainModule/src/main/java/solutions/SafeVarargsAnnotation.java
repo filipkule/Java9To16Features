@@ -1,6 +1,4 @@
-package solutions;
-
-public class Issue3SafeVarargsAnnotation {
+public class SafeVarargsAnnotation {
     public static void main(String[] args) {
         printAllArgs("Hello ", "Stranger!");
     }
