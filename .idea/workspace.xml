@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd0d617-b329-4218-9265-555e8e7720c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mainModule/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.Issue27UnmodifiableImmutableCollectionsTest.addToUnmodifiableListTest">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Filip\Programming\Repos\Java9To16Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Issue38PredicateNotMethod">
+    <configuration name="Issue16LocalVarTypeInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.Issue16LocalVarTypeInterface" />
+      <module name="Java9To16Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Issue27UnmodifiableImmutableCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Issue27UnmodifiableImmutableCollections" />
       <module name="Java9To16Features" />
@@ -63,27 +81,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Issue1JavaModularityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Issue38PredicateNotMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Issue38PredicateNotMethod" />
       <module name="Java9To16Features" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java.solutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java.solutions" />
-      <option name="MAIN_CLASS_NAME" value="java.solutions.Issue1JavaModularityTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Issue1JavaModularityTest.printMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java9To16Features" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Issue1JavaModularityTest" />
-      <option name="METHOD_NAME" value="printMessageTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Issue38PredicateNotMethod" />
+        <item itemvalue="Application.Issue16LocalVarTypeInterface" />
         <item itemvalue="JUnit.Issue27UnmodifiableImmutableCollectionsTest.addToUnmodifiableListTest" />
         <item itemvalue="JUnit.Issue27UnmodifiableImmutableCollectionsTest" />
         <item itemvalue="Application.Issue27UnmodifiableImmutableCollections" />
-        <item itemvalue="JUnit.Issue1JavaModularityTest.printMessageTest" />
-        <item itemvalue="JUnit.Issue1JavaModularityTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,5 +127,16 @@
       <updated>1673963131341</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mainModule/src/main/java/solutions/Issue38PredicateNotMethod.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

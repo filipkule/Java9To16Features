@@ -16,7 +16,7 @@ public class Issue16LocalVarTypeInterface {
         System.out.println(namesVar);
 
         BiFunction<Integer, Integer, Integer> func = (a, b) -> a + b;
-        BiFunction<Integer, Integer, Integer> funcVar = (var a, var b) -> a + b;
+        BiFunction<Integer, Integer, Integer> funcVar = (var a, var b) -> a + b;//var can be used in lambda expressions
         var resultFunc = func.apply(10, 15);
         var resultFuncVar = funcVar.apply(10, 15);
         System.out.println(resultFunc);
