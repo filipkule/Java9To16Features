@@ -175,6 +175,14 @@ here
 </a>
 </li>
 <li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/37">
+[Java 11] New File methods
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/NewFileMethods.java">
+here
+</li>
+<li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/31">
 [Java 12/13] Switch expression
 </a>
