@@ -179,8 +179,18 @@ here
 [Java 11] New File methods
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/NewFileMethods.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/Java11FileMethods.java">
 here
+</a>
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/39">
+[Java 12] File::mismatch method
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/FileMismatchMethod.java">
+here
+</a>
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/31">

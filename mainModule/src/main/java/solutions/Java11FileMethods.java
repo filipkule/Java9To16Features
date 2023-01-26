@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-public class NewFileMethods {
+public class Java11FileMethods {
     public static void main(String[] args) {
         try {
             Path demo = Files.createTempFile("demo", ".txt");
