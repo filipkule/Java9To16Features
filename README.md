@@ -1,4 +1,4 @@
-<h1 align="center">Java9To17Features</h1>
+<h1 align="center">Java 9 - 17 Features</h1>
 
 <h2 align="center"> Hello There 👋 </h2>
 
@@ -6,7 +6,7 @@
 <b>
 This repository contains simple implementations of the Java features that were 
 introduced form version 9 to version 17. The purpose of the examples is to be as simple
-as possible and any features that were introduced after Java 8 and are not codding related features
+as possible. Any features that were introduced after Java 8 and are not codding related features
 are not covered here.
 With Java 17 being the LTS until September 2023 this repo is concluded, and another repo for Java 18 to Java 21 will be linked here soon.
 </b>
