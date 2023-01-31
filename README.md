@@ -230,4 +230,13 @@ here
 . For more information on code blocks read <a href="https://docs.oracle.com/en/java/javase/14/text-blocks/index.html">
 this guide</a>.
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/40">
+[Java 14] More Descriptive NullPointerException
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/mainModule/src/main/java/solutions/Java14DescriptiveNullPointerException.java">
+here
+</a>
+</li>
 </ul>

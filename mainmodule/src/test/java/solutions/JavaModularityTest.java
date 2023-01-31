@@ -5,6 +5,6 @@ public class JavaModularityTest {
 
     @Test
     public void printMessageTest() {
-        Assertions.assertEquals("Hello stranger!", solutions.JavaModularity.printMessage());
+        Assertions.assertEquals("Hello stranger!", JavaModularity.printMessage());
     }
 }
