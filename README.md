@@ -27,7 +27,7 @@ here
 [Java 9] Try with resource Statement
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//TryWithResourceStatement.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/TryWithResourceStatement.java">
 here
 </a>
 </li>
@@ -36,7 +36,7 @@ here
 [Java 9] @SafeVarargs annotation
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//SafeVarargsAnnotation.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/SafeVarargsAnnotation.java">
 here
 </a>
 </li>
@@ -45,7 +45,7 @@ here
 [Java 9] Inner Class Diamond Operator
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//InnerClassDiamondOperator.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/InnerClassDiamondOperator.java">
 here
 </a>
 </li>
@@ -54,7 +54,7 @@ here
 [Java 9] Anonymous inner Classes
 </a>
 - the solution for this issue can be found here(same as previous) 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//InnerClassDiamondOperator.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/InnerClassDiamondOperator.java">
 here
 </a>
 </li>
@@ -74,7 +74,7 @@ here
 [Java 9] Private interface methods
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//PrivateInterfaceMethods.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/PrivateInterfaceMethods.java">
 here
 </a>
 </li>
@@ -83,7 +83,7 @@ here
 [Java 9] Optional API additions
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//OptionalApiAdditions.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/OptionalApiAdditions.java">
 here
 </a>
 </li>
@@ -92,7 +92,7 @@ here
 [Java 9] Immutable Collections
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//ImmutableCollections.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/ImmutableCollections.java">
 here
 </a>
 </li>
@@ -101,7 +101,7 @@ here
 [Java 9] Publish-Subscribe framework
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//PubSubFramework.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/PubSubFramework.java">
 here
 </a>
 </li>
@@ -110,7 +110,7 @@ here
 [Java 9] Variable Handles
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//VariableHandles.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/VariableHandles.java">
 here
 </a>
 </li>
@@ -125,7 +125,7 @@ here
 [Java 9] Process API
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//ProcessorApi.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/ProcessorApi.java">
 here
 </a>
 </li>
@@ -134,7 +134,7 @@ here
 [Java 9] Stream interface
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//StreamInterface.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/StreamInterface.java">
 here
 </a>
 </li>
@@ -143,7 +143,7 @@ here
 [Java 9/10/11] HTTP Client
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//Java9HttpClient.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java9HttpClient.java">
 here
 </a>
 </li>
@@ -152,7 +152,7 @@ here
 [Java 10] Local Variable Type Inference
 </a>
 - the solution for this issue can be found
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//LocalVarTypeInterface.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/LocalVarTypeInterface.java">
 here
 </a>
 </li>
@@ -161,7 +161,7 @@ here
 [Java 10] Unmodifiable Collections and Immutable Collections
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//UnmodifiableImmutableCollections.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/UnmodifiableImmutableCollections.java">
 here
 </a>
 </li>
@@ -170,7 +170,7 @@ here
 [Java 11] Predicate::not method
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//PredicateNotMethod.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/PredicateNotMethod.java">
 here
 </a>
 </li>
@@ -179,7 +179,7 @@ here
 [Java 11] New File methods
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//Java11FileMethods.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java11FileMethods.java">
 here
 </a>
 </li>
@@ -188,7 +188,7 @@ here
 [Java 12] File::mismatch method
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//FileMismatchMethod.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/FileMismatchMethod.java">
 here
 </a>
 </li>
@@ -197,7 +197,7 @@ here
 [Java 12] Teeing Collector
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//TeeingCollector.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/TeeingCollector.java">
 here
 </a>
 </li>
@@ -206,7 +206,7 @@ here
 [Java 12] Compact Number Formatting
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//CompactNumberFormatting.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/CompactNumberFormatting.java">
 here
 </a>
 </li>
@@ -215,7 +215,7 @@ here
 [Java 12/13] Switch expression
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//SwitchExpression.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/SwitchExpression.java">
 here
 </a>
 </li>
@@ -224,7 +224,7 @@ here
 [Java 13/14] Text Blocks
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//TextBlocks.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/TextBlocks.java">
 here
 </a>
 . For more information on code blocks read <a href="https://docs.oracle.com/en/java/javase/14/text-blocks/index.html">
@@ -235,8 +235,21 @@ this guide</a>.
 [Java 14] More Descriptive NullPointerException
 </a>
 - the solution for this issue can be found 
-<a href="https://github.com/filipkule/Java9To17Features/blob/fixMavenBuild/src/main/java/com/java/features/java9plusfeatures//Java14DescriptiveNullPointerException.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java14DescriptiveNullPointerException.java">
 here
 </a>
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/56">
+[Java 14] Pattern Matching for instanceof
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java14PatternMatchingForInstanceof.java">
+here
+</a>
+. To get a better understanding you can check out the Unit test 
+<a href="https://github.com/filipkule/Java9To17Features/blob/test/java/com/java/features/java9plusfeatures/Java14PatternMatchingForInstanceofTest.java">
+here
+</a>.
 </li>
 </ul>
