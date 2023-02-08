@@ -248,7 +248,7 @@ here
 here
 </a>
 . To get a better understanding you can check out the Unit test 
-<a href="https://github.com/filipkule/Java9To17Features/blob/test/java/com/java/features/java9plusfeatures/Java14PatternMatchingForInstanceofTest.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/test/java/com/java/features/java9plusfeatures/Java14PatternMatchingForInstanceofTest.java">
 here
 </a>.
 </li>
