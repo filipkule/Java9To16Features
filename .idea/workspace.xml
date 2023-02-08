@@ -4,18 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd0d617-b329-4218-9265-555e8e7720c1" name="Changes" comment="">
+    <list default="true" id="df83a01f-9e87-476a-9721-ac33ad033714" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/com.java9modules.main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.java9modules.required/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java9To16Features.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java9To17Features.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issue1.requiredModule/src/com/service/RequiredClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/issue1.requiredModule/src/com/service/RequiredClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/JavaModularity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mainModule/src/main/java/solutions/JavaModularity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/RequiredClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/AbstractAddition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java9To17Features.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/CompactNumberFormatting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainModule/src/main/java/solutions/Java14DescriptiveNullPointerException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainModule/src/test/java/solutions/Java14DescriptiveNullPointerExceptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/Java9To16Features.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/FileMismatchMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/ImmutableCollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/InnerClassDiamondOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/InterfaceWithPrivateMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/Java11FileMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/Java9HttpClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/JavaModularity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/LocalVarTypeInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/OptionalApiAdditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/PredicateNotMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/PrivateInterfaceMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/ProcessorApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/PubSubFramework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/SafeVarargsAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/StreamInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/SwitchExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/TeeingCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/TextBlocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/TryWithResourceStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/UnmodifiableImmutableCollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/java/solutions/VariableHandles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/main/resources/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/test/java/solutions/JavaModularityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainmodule/src/test/java/solutions/UnmodifiableImmutableCollectionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requiredmodule/src/com/service/RequiredClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requiredmodule/src/module-info.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -38,6 +66,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -47,7 +76,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2KSLeGFHTYwx90ZS8uWqhcgY5tH" />
+  <component name="ProjectId" id="2LT7lEcpOCMtQm240RifaixhEWN" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -60,51 +89,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Filip/Programming/Repos/Java9To17Features/com.java9modules.main/src/main/java",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Filip\Programming\Repos\Java9To16Features" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Filip\Programming\Repos\Java9To17Features\com.java9modules.main\src\main\java" />
+      <recent name="C:\Filip\Programming\Repos\Java9To17Features\com.java9modules.required\src\main\java" />
+      <recent name="C:\Filip\Programming\Repos\Java9To17Features\src\test\java\com\java\features\java9plusfeatures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProcessorApi">
-    <configuration name="ImmutableCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableCollections" />
-      <module name="Java9To17Features" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java9HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java9HttpClient" />
-      <module name="Java9To17Features" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaModularity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaModularity" />
-      <module name="Java9To17Features" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProcessorApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProcessorApi" />
-      <module name="Java9To17Features" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariableHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solutions.VariableHandles" />
-      <module name="Java9To17Features" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Java14DescriptiveNullPointerExceptionTest">
+    <configuration name="CompactNumberFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.features.java9plusfeatures.CompactNumberFormatting" />
+      <module name="java-9-plus-features" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solutions.*" />
+          <option name="PATTERN" value="com.java.features.java9plusfeatures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,49 +122,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Java9To17Features" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementation.Main" />
+      <module name="com.java9modules.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java9To17Features" />
-      <option name="filePath" />
+    <configuration name="Java14DescriptiveNullPointerExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-9-plus-features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.features.java9plusfeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.features.java9plusfeatures" />
+      <option name="MAIN_CLASS_NAME" value="com.java.features.java9plusfeatures.Java14DescriptiveNullPointerExceptionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java14DescriptiveNullPointerExceptionTest.invokeNPETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-9-plus-features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.features.java9plusfeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.features.java9plusfeatures" />
+      <option name="MAIN_CLASS_NAME" value="com.java.features.java9plusfeatures.Java14DescriptiveNullPointerExceptionTest" />
+      <option name="METHOD_NAME" value="invokeNPETest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnmodifiableImmutableCollectionsTest.addToUnmodifiableListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-9-plus-features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.features.java9plusfeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.features.java9plusfeatures" />
+      <option name="MAIN_CLASS_NAME" value="com.java.features.java9plusfeatures.UnmodifiableImmutableCollectionsTest" />
+      <option name="METHOD_NAME" value="addToUnmodifiableListTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProcessorApi" />
-        <item itemvalue="Application.JavaModularity" />
-        <item itemvalue="Application.Java9HttpClient" />
-        <item itemvalue="Application.ImmutableCollections" />
-        <item itemvalue="Application.VariableHandles" />
+        <item itemvalue="JUnit.Java14DescriptiveNullPointerExceptionTest" />
+        <item itemvalue="Application.CompactNumberFormatting" />
+        <item itemvalue="JUnit.UnmodifiableImmutableCollectionsTest.addToUnmodifiableListTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Java14DescriptiveNullPointerExceptionTest.invokeNPETest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9cd0d617-b329-4218-9265-555e8e7720c1" name="Changes" comment="" />
-      <created>1673963131341</created>
+      <changelist id="df83a01f-9e87-476a-9721-ac33ad033714" name="Changes" comment="" />
+      <created>1675883368287</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673963131341</updated>
+      <updated>1675883368287</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mainModule/src/main/java/solutions/PredicateNotMethod.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
