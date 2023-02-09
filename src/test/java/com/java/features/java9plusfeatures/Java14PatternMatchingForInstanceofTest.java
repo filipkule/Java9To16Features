@@ -19,6 +19,6 @@ public class Java14PatternMatchingForInstanceofTest {
 
         assertEquals(6.0, equivalentTrianglePerimeter);
         assertEquals(7.0, isoscelesTrianglePerimeter);
-        assertEquals(7.0, scalaneTrianglePerimeter);
+        assertEquals(7.5, scalaneTrianglePerimeter);
     }
 }

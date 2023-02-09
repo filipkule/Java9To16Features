@@ -252,4 +252,17 @@ here
 here
 </a>.
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/33">
+[Java 14/15] Records
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java14Record.java">
+here
+</a>
+. To get a better understanding you can check out the Unit test 
+<a href="https://github.com/filipkule/Java9To17Features/blob/test/java/com/java/features/java9plusfeatures/Java14RecordTest.java">
+here
+</a>.
+</li>
 </ul>
