@@ -8,8 +8,6 @@ public class Java14Record {
         System.out.println("Hello " + person.name());// Generated getters
         System.out.println("Age: " + person.age());
         System.out.println("Number of Friends: " + person.friends().size());
-        person.friends.add("SecondFriend");
-        System.out.println("Number of Friends: " + person.friends().size());
         // To get a better understanding go to Java14RecordTest.java
         // Where we go deeper into how to keep record immutable if needed
     }
