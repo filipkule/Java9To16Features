@@ -4,13 +4,16 @@ import java.util.Arrays;
 
 public class SealedClasses {
     public static void main(String[] args) {
+        // Rectangle uses non-sealed, which is one of the 3 ways to extend sealed class
         int[] sides = {2, 3, 4, 5};
         Form rectangle = new Rectangle(sides);
         System.out.println(rectangle.calculatePerimeter());
 
+        // Circle uses final, and cannot be extended
         Form circle = new Circle(2.3f);
         System.out.println(circle.calculatePerimeter());
 
+        // Triangle is a sealed class that is e extended by EquivalentTriangle which is final.
         Form triangle = new EquivalentTriangle("equivalent", 3);
         System.out.println(triangle.calculatePerimeter());
     }
