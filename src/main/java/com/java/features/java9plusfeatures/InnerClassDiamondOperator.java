@@ -10,7 +10,7 @@ public class InnerClassDiamondOperator {
             }
         };
 
-        AbstractAddition<String> additionString = new AbstractAddition<>() {
+        AbstractAddition<String> additionString = new AbstractAddition<>() {// Diamond operator is empty, here the compiler figures out the type.
             @Override
             String add(String firstArgument, String secondArgument) {
                 result = firstArgument + secondArgument;
