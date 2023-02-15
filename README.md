@@ -261,7 +261,7 @@ here
 here
 </a>
 . To get a better understanding you can check out the Unit test 
-<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java14RecordTest.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/test/java/com/java/features/java9plusfeatures/Java14RecordTest.java">
 here
 </a>.
 </li>
@@ -272,6 +272,7 @@ here
 - the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/SealedClasses.java">
 here
+</a>.
 </li>
 <li>
 <a href="https://github.com/filipkule/Java9To17Features/issues/35">
@@ -280,5 +281,6 @@ here
 - the solution for this issue can be found 
 <a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/RecordsInInnerClasses.java">
 here
+</a>.
 </li>
 </ul>
