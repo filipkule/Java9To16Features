@@ -15,6 +15,7 @@ public class RecordsInInnerClasses {
 
     static class InnerClass {
         public static Book book = new Book("InnerTitle", "InnerAuthor", "InnerIsbn");// Before Java 16 we were not allowed
+                                                                                                       // to use records as inner class members
     }
 }
 
