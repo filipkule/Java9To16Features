@@ -1,7 +1,7 @@
 package com.java.features.java9plusfeatures;
 
 public class RecordsInInnerClasses {
-    
+
     static Book book = new Book("Title", "Authhor", "isbn");
 
     public static void main(String[] args) {

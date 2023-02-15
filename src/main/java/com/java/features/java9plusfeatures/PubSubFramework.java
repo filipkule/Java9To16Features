@@ -16,21 +16,17 @@ public class PubSubFramework {
         personPublisher.subscribe(personSubscriber);
 
         System.out.println("Debug");
-
     }
 
     private static Publisher<Person> getPersonPublisher(List<Person> people) {
-        return new Publisher<Person>() {
-            @Override
-            public void subscribe(Subscriber<? super Person> subscriber) {
-                for (Person person : people) {
-                    System.out.println("Thread :" + Thread.currentThread().getName() +
-                            " Publishing person: " + person.getName());
-                    subscriber.onNext(person);
-                }
-                subscriber.onComplete();
-                System.out.println("Published all the people!");
+        return subscriber -> {
+            for (Person person : people) {
+                System.out.println("Thread :" + Thread.currentThread().getName() +
+                        " Publishing person: " + person.name());
+                subscriber.onNext(person);
             }
+            subscriber.onComplete();
+            System.out.println("Published all the people!");
         };
     }
 
@@ -47,7 +43,7 @@ public class PubSubFramework {
             @Override
             public void onNext(Person item) {
                 System.out.println("Thread :" + Thread.currentThread().getName() +
-                        " Consuming person: " + item.getName());
+                        " Consuming person: " + item.name());
                 try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
@@ -67,29 +63,5 @@ public class PubSubFramework {
         };
     }
 
-    static class Person{
-        Integer id;
-        String name;
-
-        public Person(Integer id, String name) {
-            this.id = id;
-            this.name = name;
-        }
-
-        public Integer getId() {
-            return id;
-        }
-
-        public void setId(Integer id) {
-            this.id = id;
-        }
-
-        public String getName() {
-            return name;
-        }
-
-        public void setName(String name) {
-            this.name = name;
-        }
-    }
+    record Person(Integer id, String name){}
 }
