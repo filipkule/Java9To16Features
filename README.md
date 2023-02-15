@@ -261,8 +261,24 @@ here
 here
 </a>
 . To get a better understanding you can check out the Unit test 
-<a href="https://github.com/filipkule/Java9To17Features/blob/test/java/com/java/features/java9plusfeatures/Java14RecordTest.java">
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java14RecordTest.java">
 here
 </a>.
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/36">
+[Java 15/16/17] Sealed classes
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/SealedClasses.java">
+here
+</li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/35">
+[Java 16] Records as class members of inner classes
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/RecordsInInnerClasses.java">
+here
 </li>
 </ul>
