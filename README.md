@@ -283,4 +283,13 @@ here
 here
 </a>.
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/63">
+[Java 16] Stream::toList method addition
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/Java16StreamToListMethod.java">
+here
+</a>.
+</li>
 </ul>
