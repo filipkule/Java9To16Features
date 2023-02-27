@@ -292,4 +292,13 @@ here
 here
 </a>.
 </li>
+<li>
+<a href="https://github.com/filipkule/Java9To17Features/issues/46">
+[Java 17] Pattern Matching for switch Expressions and Statements
+</a>
+- the solution for this issue can be found 
+<a href="https://github.com/filipkule/Java9To17Features/blob/main/src/main/java/com/java/features/java9plusfeatures/PatternMatchingForSwitchExpressions.java">
+here
+</a>.
+</li>
 </ul>
