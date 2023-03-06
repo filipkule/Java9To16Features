@@ -2,7 +2,7 @@ package com.java.features.java9plusfeatures;
 
 public class RecordsInInnerClasses {
 
-    static Book book = new Book("Title", "Authhor", "isbn");
+    static Book book = new Book("Title", "Author", "isbn");
 
     public static void main(String[] args) {
         System.out.println(book.title);
@@ -10,7 +10,7 @@ public class RecordsInInnerClasses {
         System.out.println(innerClass.book.title);
     }
 
-    public record Book(String title, String authhor, String isbn) {
+    public record Book(String title, String author, String isbn) {
     }
 
     static class InnerClass {
